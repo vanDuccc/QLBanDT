@@ -1,0 +1,16 @@
+C:\Users\Dao Van Duc - PC\source\repos\QuanLyBanDienThoai\QuanLyBanDienThoai\bin\Debug\QuanLyBanDienThoai.exe.config
+C:\Users\Dao Van Duc - PC\source\repos\QuanLyBanDienThoai\QuanLyBanDienThoai\bin\Debug\QuanLyBanDienThoai.exe
+C:\Users\Dao Van Duc - PC\source\repos\QuanLyBanDienThoai\QuanLyBanDienThoai\bin\Debug\QuanLyBanDienThoai.pdb
+C:\Users\Dao Van Duc - PC\source\repos\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.csproj.AssemblyReference.cache
+C:\Users\Dao Van Duc - PC\source\repos\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.FrmLogin.resources
+C:\Users\Dao Van Duc - PC\source\repos\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.Properties.Resources.resources
+C:\Users\Dao Van Duc - PC\source\repos\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.csproj.GenerateResource.cache
+C:\Users\Dao Van Duc - PC\source\repos\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.csproj.CoreCompileInputs.cache
+C:\Users\Dao Van Duc - PC\source\repos\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.exe
+C:\Users\Dao Van Duc - PC\source\repos\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.pdb
+C:\Users\Dao Van Duc - PC\source\repos\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.LoginChange.FrmLoginChange.resources
+C:\Users\Dao Van Duc - PC\source\repos\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.Customer.FrmCustomer.resources
+C:\Users\Dao Van Duc - PC\source\repos\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.Employee.FrmEmployee.resources
+C:\Users\Dao Van Duc - PC\source\repos\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.NhanVien.FrmNhanVien.resources
+C:\Users\Dao Van Duc - PC\source\repos\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.Customer2.FrmCustomer2.resources
+C:\Users\Dao Van Duc - PC\source\repos\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.Employee2.FrmEmployee2.resources
